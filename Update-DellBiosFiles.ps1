@@ -54,7 +54,7 @@
 
 .NOTES
     Author: Luke Mitchell-Collins (based on original by David Segura)
-    Version: 1.0.0 (2024-07-16)
+    Version: 1.0.0 (2025-07-16)
     https://www.powershellgallery.com/packages/DellBios
 
     - On Windows, interactive mode uses Out-GridView if available.
@@ -63,7 +63,8 @@
     - If you see parameter errors, ensure you are running THIS script, not the DellBios module version (run as: .\Update-DellBiosFiles.ps1).
 
 .LINK
-    https://github.com/SeguraDavid/DellBios
+    https://github.com/SIDNut/scripts
+    https://www.powershellgallery.com/packages/DellBios
     https://www.dell.com/support
 #>
 
