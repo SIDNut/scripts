@@ -1,6 +1,6 @@
 # ===== SafeClean-PatchCleanerPS.ps1 =====
 param(
-  [string]$Quarantine = "D:\InstallerQuarantine"  # change if needed
+  [string]$Quarantine = "C:\InstallerQuarantine"  # change if needed
 )
 
 $ErrorActionPreference = 'Stop'
